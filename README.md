@@ -6,8 +6,8 @@ This is a simple web application built with React that allows users to manage th
 # Getting Started
 To get started with the app, follow these steps:
 
-- Clone the repo to your local machine using git clone https://github.com/yourusername/contact-list-app.git
-- Navigate to the project directory using cd contact-list-app
+- Clone the repo to your local machine using git clone https://github.com/isaactony/contactAppReactFrontEnd
+- Navigate to the project directory using cd contactAppReactFrontEnd
 - Install the required dependencies using npm install
 - Start the development server using npm start
 - Open your browser and navigate to http://localhost:3000
