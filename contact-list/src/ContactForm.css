@@ -1,0 +1,51 @@
+.contact-form {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    max-width: 600px;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="tel"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .contact-form input[type="text"] + svg,
+  .contact-form input[type="tel"] + svg,
+  .contact-form input[type="email"] + svg,
+  .contact-form textarea + svg {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    color: white;
+  }
+  
+  .contact-form .save-btn,
+  .contact-form .delete-btn {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .contact-form .save-btn svg,
+  .contact-form .delete-btn svg {
+    margin-right: 10px;
+  }
+  
