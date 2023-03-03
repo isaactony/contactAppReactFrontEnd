@@ -2,6 +2,7 @@
 
 # Contact List App
 This is a simple web application built with React that allows users to manage their contacts. Users can add, view, delete, and update contacts, as well as filter contacts by groups (i.e. friends, family, or work).
+![Screenshot from 2023-03-03 18-34-35](https://user-images.githubusercontent.com/59682377/222762208-27f85f6a-a436-4d66-8915-0b41c769feb1.png)
 
 # Getting Started
 To get started with the app, follow these steps:
